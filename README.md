@@ -14,6 +14,3 @@ Skills: PYTHON / KOTLIN / TYPESCRIPT / LINUX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vantage-ola&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vantage-ola)  
-
-![Profile views](https://gpvc.arturio.dev/vantage-ola)  
