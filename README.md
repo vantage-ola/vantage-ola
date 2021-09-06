@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ola!
-#### Software Developer and Student
+#### I am a Student willing to learn and try  new things
 My name is Oluwasanya Olaoluwa, I live in Lagos, Nigeria. Say Hello on [![Twitter][1]][1.1]
 
 
